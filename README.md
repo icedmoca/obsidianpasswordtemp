@@ -27,6 +27,8 @@ Welcome to the Obsidian Password Manager Templates repository! This collection o
 ### Sites (7):
 ![Snap (4)](https://github.com/icedmoca/passwordmanagermd/assets/24930296/1ac54091-6264-4864-b926-6868f2a06c64)
 
+### VPN:
+![Snap (8)](https://github.com/icedmoca/passwordmanagermd/assets/24930296/debbde37-8639-4ec5-ada5-107cd7aaa836)
 
 
 
