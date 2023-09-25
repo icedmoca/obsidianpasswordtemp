@@ -7,6 +7,8 @@
 
 Welcome to the Obsidian Password Manager Templates repository! This collection of Markdown templates is designed to enhance your password management experience within the Obsidian note-taking app. Organize your login credentials, websites, networks, and more using these user-friendly templates.
 
+Use these Obsidian Password Manager Templates to seamlessly manage your passwords and sensitive information within the Obsidian note-taking app. Enjoy the convenience of offline password storage on a USB drive or via cloud services like iCloud, while keeping your data secure with encryption. For added security, we highly recommend using a self-hosted VPN if you intend to access your password vault remotely. Safeguard your digital credentials while maintaining easy access and organization in your Obsidian vault. Please note that it is strongly recommended to encrypt your passwords independently and exercise caution when relying on third-party encryption plugins for sensitive data.
+
 ## Pages
 
 1. **Networks**: Use the `TEMP_NETWORKS.md` template to manage your network-related passwords and configurations.
