@@ -1,6 +1,6 @@
 # Obsidian Password Manager Templates
 
-![Snap (7)](https://github.com/icedmoca/passwordmanagermd/assets/24930296/d97f8ca9-e792-47ed-882e-8ee2e8ad4338)
+![Snap (9)](https://github.com/icedmoca/passwordmanagermd/assets/24930296/f5c6939c-6163-4e8b-bc45-6b55d30b0366)
 
 
 ## Welcome
