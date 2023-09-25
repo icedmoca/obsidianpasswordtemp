@@ -29,9 +29,4 @@
 
 > [!caution] 
 > ⚠️ **WARNING: SENSITIVE CONTENT** ⚠️
->This file contains encrypted sensitive information. The encryption used is based on advanced kernel-level keyring techniques to ensure the utmost security. Unauthorized access, distribution, or misuse of the passwords and data within this file may violate regulations, laws, and terms of use associated with the respective accounts. 
->By accessing this file, you acknowledge the responsibility and potential consequences of mishandling the information herein. Always handle with care and ensure that you are in compliance with all relevant guidelines and laws.
-> 
-> ⚠️ **NO COPYING ALLOWED** ⚠️
-> Unauthorized duplication or distribution of this file is strictly prohibited. Violations may result in legal action.
->
+>This file contains encrypted sensitive information.
