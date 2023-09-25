@@ -10,6 +10,21 @@ Welcome to the Obsidian Password Manager Templates repository! This collection o
 
 3. **VPNs**: Simplify your VPN password management with the `TEMP_VPN.md` template.
 
+
+## Template Images:
+
+### Network:
+![Snap1](https://github.com/icedmoca/passwordmanagermd/assets/24930296/bf03f13f-0ed9-44c2-bd87-0649ab9ace61)
+
+### Sites:
+![Snap (2)](https://github.com/icedmoca/passwordmanagermd/assets/24930296/aee2de91-8e0d-42e2-831d-8ffb4e06dcb9)
+
+### Sites (7):
+![Snap (4)](https://github.com/icedmoca/passwordmanagermd/assets/24930296/1ac54091-6264-4864-b926-6868f2a06c64)
+
+
+
+
 ## How to Use
 
 1. Click on the desired template link above.
