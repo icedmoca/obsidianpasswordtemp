@@ -35,4 +35,3 @@
 > ⚠️ **NO COPYING ALLOWED** ⚠️
 > Unauthorized duplication or distribution of this file is strictly prohibited. Violations may result in legal action.
 >
-> ![Snap1](https://github.com/icedmoca/passwordmanagermd/assets/24930296/34dedd38-736f-4c52-b168-f0a367b86480)
