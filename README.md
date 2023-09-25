@@ -3,7 +3,7 @@
 ![Snap (9)](https://github.com/icedmoca/passwordmanagermd/assets/24930296/f5c6939c-6163-4e8b-bc45-6b55d30b0366)
 
 
-## Welcome
+## About
 
 Welcome to the Obsidian Password Manager Templates repository! This collection of Markdown templates is designed to enhance your password management experience within the Obsidian note-taking app. Organize your login credentials, websites, networks, and more using these user-friendly templates.
 
