@@ -47,3 +47,5 @@ These templates are designed to make password management in Obsidian easier and 
 If you have ideas for additional templates or improvements, we welcome contributions from the Obsidian community. Simply fork this repository, make your changes, and submit a pull request.
 
 Happy password managing with Obsidian!
+
+:warning: **Disclaimer:** Storing passwords in Obsidian without proper encryption is **not recommended** and can pose a security risk. Please exercise caution and consider using a dedicated password manager for sensitive login credentials. Your digital security is important! :lock:
