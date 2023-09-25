@@ -1,5 +1,8 @@
 # Obsidian Password Manager Templates
 
+:warning: **Disclaimer:** Storing passwords in Obsidian without proper encryption is **not recommended** and can pose a security risk. Please exercise caution and consider using a dedicated password manager for sensitive login credentials. Your digital security is important! :lock:
+This repo will host an encryption plugin soon!
+
 Welcome to the Obsidian Password Manager Templates repository! This collection of Markdown templates is designed to enhance your password management experience within the Obsidian note-taking app. Organize your login credentials, websites, networks, and more using these user-friendly templates.
 
 ## Pages
