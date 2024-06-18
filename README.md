@@ -25,6 +25,8 @@ Use these Obsidian Password Manager Templates to seamlessly manage your password
 4. Paste the template content into the new note.
 5. Fill in.
 6. Suggested: [encrypt files](https://github.com/meld-cp/obsidian-encrypt)
+
+   
 These templates are designed to make password management in Obsidian easier and more organized. Feel free to customize them to your specific needs and preferences.
 
 ## Additional Resources
