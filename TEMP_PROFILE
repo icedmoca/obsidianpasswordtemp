@@ -1,0 +1,39 @@
+> [!info] 
+> `     LINK       `
+>
+> **InputAboutInfo**
+
+# <span style="color:#00b050">🔒 Personal Information</span>
+
+| # | Field                         | Details                                 |
+|---|-------------------------------|-----------------------------------------|
+| 1 | <span style="color:#00b050">Full Name</span>                   | `John Doe`                              |
+| 2 | <span style="color:#00b050">Address</span>                     | `1234 Main St, Anytown, AZ 12345`       |
+| 3 | <span style="color:#00b050">Phone Number</span>                | `123-456-7890`                          |
+| 4 | <span style="color:#00b050">Date of Birth</span>               | `01/01/1990`                            |
+| 5 | <span style="color:#c00000">Social Security Number</span>      | `123-45-6789`                           |
+| 6 | <span style="color:#00b050">Email</span>                       | `example1@gmail.com`                    |
+| 7 | <span style="color:#00b050">Secondary Email</span>             | `example2@gmail.com`                    |
+| 8 | <span style="color:#00b050">Driver's License Number</span>     | `D1234567890123`                        |
+| 9 | <span style="color:#00b050">Passport Number</span>             | `123456789`                             |
+| 10 | <span style="color:#00b050">Bank Account Number</span>         | `1234567890`                            |
+| 11 | <span style="color:#00b050">Bank Routing Number</span>         | `123456789`                             |
+| 12 | <span style="color:#00b050">Credit Card Number</span>          | `4111 1111 1111 1111`                   |
+| 13 | <span style="color:#00b050">Credit Card Expiry</span>          | `01/25`                                 |
+| 14 | <span style="color:#00b050">Credit Card CVV</span>             | `123`                                   |
+| 15 | <span style="color:#00b050">Health Insurance Number</span>     | `H1234567890`                           |
+| 16 | <span style="color:#00b050">Emergency Contact Name</span>      | `Jane Doe`                              |
+| 17 | <span style="color:#00b050">Emergency Contact Phone</span>     | `098-765-4321`                          |
+| 18 | <span style="color:#00b050">Employment Status</span>           | `Employed`                              |
+| 19 | <span style="color:#00b050">Employer</span>                    | `Example Corp`                          |
+| 20 | <span style="color:#00b050">Position</span>                    | `Software Engineer`                     |
+| 21 | <span style="color:#00b050">Marital Status</span>              | `Single`                                |
+| 22 | <span style="color:#00b050">Nationality</span>                 | `American`                              |
+| 23 | <span style="color:#00b050">Place of Birth</span>              | `Anytown, AZ, USA`                      |
+
+> [!caution] 
+> ⚠️ **WARNING: SENSITIVE CONTENT** ⚠️
+> This file contains encrypted sensitive information. Unauthorized access, distribution, or misuse of the data within this file may violate regulations, laws, and terms of use associated with the respective accounts.
+>
+> ⚠️ **NO COPYING ALLOWED** ⚠️
+> Unauthorized duplication or distribution of this file is strictly prohibited. Violations may result in legal action.
